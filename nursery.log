@@ -1,0 +1,567 @@
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+DEBUG:root:fetchStores() database operation successful
+DEBUG:root:fetchStoreId() database operation successful
+DEBUG:root:fetchPlants() database operation successful
+DEBUG:root:fetchPlantTypes() database operation successful
+DEBUG:root:fetchPlantsByType() database operation successful
+DEBUG:root:fetchPlantsByPrice() database operation successful
+DEBUG:root:fetchAllPlants() database operation successful
+DEBUG:root:fetchCustomerAddress() database operation successful
+INFO:root:saveOrderDetails successful
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'ron'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:updateCurrentOrder(): updated successfully
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+DEBUG:root:fetchStores() database operation successful
+DEBUG:root:fetchStoreId() database operation successful
+DEBUG:root:fetchPlants() database operation successful
+DEBUG:root:fetchPlantTypes() database operation successful
+DEBUG:root:fetchPlantsByType() database operation successful
+DEBUG:root:fetchPlantsByPrice() database operation successful
+DEBUG:root:fetchAllPlants() database operation successful
+DEBUG:root:fetchCustomerAddress() database operation successful
+INFO:root:saveOrderDetails successful
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'ron'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:updateCurrentOrder(): Attempting to update order for id '3' and status 'Current'
+INFO:root:updateCurrentOrder(): updated successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:inCustomer(): attempting to fetch customer with username 'j'
+INFO:root:inCustomer(): fetch of customer successful
+INFO:root:getOrderForGivenCustAndStatus(): Attempting to fetch orders for customer id '1' and status 'New'
+INFO:root:getOrderForGivenCustAndStatus(): fetched orders successfully
+INFO:root:getPlantsWithRating(): Attempting to fetch plants by rating
+INFO:root:getPlantsWithRating(): Fetched data successfully
+INFO:root:getPlantsOrderMost(): Attempting to fetch plants by most ordered
+INFO:root:getPlantsOrderMost(): Fetched data successfully
+INFO:root:getPlantsOrderMost(): Attempting to fetch plants by most ordered
+INFO:root:getPlantsOrderMost(): Fetched data successfully
+INFO:root:getTopPlantGivenType(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenType(): fetched data successfully
+INFO:root:getTopPlantGivenStore(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenStore(): fetched data successfully
+INFO:root:getOrderForGivenCust(): Attempting to fetch orders for customer id '1'
+INFO:root:getOrderForGivenCust(): fetched orders successfully
+INFO:root:getItemsForGivenOrderId(): Attempting to fetch items for order id '1'
+INFO:root:getItemsForGivenOrderId(): fetched items successfully
+INFO:root:getItemsForGivenOrderId(): Attempting to fetch items for order id '4'
+INFO:root:getItemsForGivenOrderId(): fetched items successfully
+INFO:root:updateItemRating(): updated successfully
+INFO:root:updateItemRating(): updated successfully
+INFO:root:getOrderForGivenCust(): Attempting to fetch orders for customer id '1'
+INFO:root:getOrderForGivenCust(): fetched orders successfully
+INFO:root:getPlantsWithRating(): Attempting to fetch plants by rating
+INFO:root:getPlantsWithRating(): Fetched data successfully
+INFO:root:getPlantsOrderMost(): Attempting to fetch plants by most ordered
+INFO:root:getPlantsOrderMost(): Fetched data successfully
+INFO:root:getTopPlantGivenType(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenType(): fetched data successfully
+INFO:root:getTopPlantGivenType(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenType(): fetched data successfully
+INFO:root:getTopPlantGivenType(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenType(): fetched data successfully
+INFO:root:getTopPlantGivenType(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenType(): fetched data successfully
+INFO:root:getTopPlantGivenStore(): Attempting to fetch plants by type
+INFO:root:getTopPlantGivenStore(): fetched data successfully
+INFO:root:inEmployee(): attempting to fetch employee with username 'ron'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inCustomer(): attempting to fetch customer with username 'j'
+INFO:root:inCustomer(): fetch of customer successful
+INFO:root:fetchStores(): Attempting to fetch address from stores
+INFO:root:fetchStores(): fetched address successfully
+INFO:root:fetchPlantTypes(): Attempting to fetch plant type names
+INFO:root:fetchPlantTypes(): fetched plant types successfully
+INFO:root:fetchPlantsByType(): Attempting to fetch plants of given types
+INFO:root:fetchPlants(): Attempting to fetch plants for given ids
+INFO:root:fetchPlants(): fetched plants successfully
+INFO:root:fetchCustomerAddress(): Attempting to fetch customer address for id '1'
+INFO:root:fetchCustomerAddress(): fetched address successfully
+INFO:root:fetchStoreId(): Attempting to fetch store for address 'San Jose'
+INFO:root:saveOrderDetails(): Attempting to insert orders for customer '1'
+INFO:root:saveOrderDetails(): Attempting to insert items
+INFO:root:saveOrderDetails(): insert of order and item successful
+INFO:root:fetchStores(): Attempting to fetch address from stores
+INFO:root:fetchStores(): fetched address successfully
+INFO:root:fetchPlantsByPrice(): Attempting to fetch plants of given prices
+INFO:root:fetchPlantsByPrice(): fetched plants successfully
+INFO:root:fetchPlants(): Attempting to fetch plants for given ids
+INFO:root:fetchPlants(): fetched plants successfully
+INFO:root:fetchStoreId(): Attempting to fetch store for address 'Fresno'
+INFO:root:saveOrderDetails(): Attempting to insert orders for customer '1'
+INFO:root:saveOrderDetails(): Attempting to insert items
+INFO:root:saveOrderDetails(): insert of order and item successful
+INFO:root:getOrderForGivenCust(): Attempting to fetch orders for customer id '1'
+INFO:root:getOrderForGivenCust(): fetched orders successfully
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'ron'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:getAllOrders(): Attempting to fetch all orders
+INFO:root:getAllOrders(): fetched all orders successfully
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'lbj'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'lbj'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:insert_employee(): attempting to insert data into employee table
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:insert_employee(): attempting to insert data into employee table
+INFO:root:insert_employee(): insert into employee table successful
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:insert_employee(): attempting to insert data into employee table
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:insert_employee(): attempting to insert data into employee table
+INFO:root:insert_employee(): insert into employee table successful
+INFO:root:inEmployee(): attempting to fetch employee with username 'robPri'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:inEmployee(): attempting to fetch employee with username 'Price'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getAllOrders(): Attempting to fetch all orders
+ERROR:root:getAllOrders(): 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'lbj'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:delete_plant(): attempting to delete employee with id '63'
+INFO:root:delete_plant(): delete of employee successful for id '63'
+INFO:root:delete_plant(): attempting to delete employee with id '65'
+INFO:root:delete_plant(): delete of employee successful for id '65'
+INFO:root:delete_plant(): attempting to delete employee with id '66'
+INFO:root:delete_plant(): delete of employee successful for id '66'
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:insert_employee(): attempting to insert data into employee table
+INFO:root:insert_employee(): insert into employee table successful
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:update_supID(): attempting to update employee of id '44'
+INFO:root:update_supID(): updated employee data successfully for id '44'
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+ERROR:root:query(): 1054 (42S22): Unknown column 'Manager' in 'where clause'
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:stores(): attempting to fetch all stores
+INFO:root:stores(): fetch of stores successful
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getStore(): attempting to fetch all stores
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getStore(): attempting to fetch all stores
+ERROR:root:getStores(): Unread result found
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getStore(): attempting to fetch all stores
+INFO:root:getStore(): fetched stores data successfully
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getStore(): attempting to fetch all stores
+INFO:root:getStore(): fetched stores data successfully
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:getStore(): attempting to fetch all stores
+INFO:root:getStore(): fetched stores data successfully
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:getStore(): attempting to fetch all stores
+INFO:root:getStore(): fetched stores data successfully
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:delete_plant(): attempting to delete employee with id '44'
+INFO:root:delete_plant(): delete of employee successful for id '44'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:update_supID(): attempting to update employee of id '48'
+INFO:root:update_supID(): updated employee data successfully for id '48'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:Inside the getAllPlantTypes - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getAllPriceRanges - end
+INFO:root:Inside the getPlantsFromLocation - end
+INFO:root:Inside the searchPlants - end
+INFO:root:Inside the makeOrders - end
+INFO:root:Inside the checkForOrders - end
+INFO:root:Inside the choiceForOrders - end
+INFO:root:inEmployee(): attempting to fetch employee with username 'lbj'
+INFO:root:inEmployee(): fetch of employee successful
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
+INFO:root:getEmployees(): attempting to fetch employee with store id '1'
+INFO:root:getEmployees(): fetched employees data successfully for store id '1'
+INFO:root:update_supID(): attempting to update employee of id '50'
+INFO:root:update_supID(): updated employee data successfully for id '50'
+INFO:root:query(): attempting to query DB with select, table, where, orderBy
+INFO:root:query(): queried DB successfully with select, table, where, orderyBy
